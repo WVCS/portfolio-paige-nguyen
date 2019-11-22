@@ -12,3 +12,11 @@ a{color: blue; font-size: 150%;}
 ul {font-size: 200%; font-family: courier ;}
 
 p {font-size: 200%}
+
+.cities {
+  background-color: Pink;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+
