@@ -24,3 +24,12 @@ p {font-size: 200%}
   background-color: #333;
   overflow: hidden;
 }
+
+body {background-color: #EDAFB8;}
+
+p {text align: center; color: purple; font-size: 60%;}
+
+h1 {text-align: center; color: HotPink; font-size: 300%;}
+h2 {text-align: center; color: Purple; font-size: 300%;}
+
+img {size:  ;}
